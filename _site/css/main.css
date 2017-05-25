@@ -1,0 +1,231 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+
+/*This is the basic section*/
+
+h1, h2, h3, h4 {
+  font-family: 'Hind', sans-serif;
+  color: #2a2a2a;
+}
+
+h5, h6, p {
+  font-family: 'Open Sans', sans-serif;
+  color: #a6a9bd;
+}
+
+a {
+  color: #a6a9bd;
+  text-decoration: none;
+}
+
+#logo {
+  align-items: center;
+  margin-bottom: 10%;
+}
+
+/*This is the helper section*/
+
+.title h1, h2, h3 {
+  margin: 5% 10%;
+  text-align: center;
+}
+
+
+
+/*This is the homepage section*/
+
+header {
+  min-height: 5vh;
+}
+
+.link:hover a{
+  background-color: #00146d;
+}
+
+.link{
+  margin-top: 2%;
+}
+
+.hometitle h1{
+  margin: 2% 10%;
+  text-align: center;
+}
+
+.hometitle p{
+  margin: 4% 10%;
+  line-height: 1.5rem;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+.buttons div{
+  margin: 0 2%;
+}
+.fakebutton {
+  background-color: #00146d;
+  min-height: 5rem;
+  text-align: center;
+  align-items: center;
+  padding: 3%;
+
+}
+.fakebutton h3 {
+  background-color: #00146d;
+  color:white;
+  margin-top: 7%;
+  font-size: 2rem;
+}
+.fakebutton h4 {
+  background-color: #00146d;
+  color:white;
+  margin-top: 7%;
+  font-size: 1.5rem;
+}
+
+/*This is the schedule section*/
+
+.dayinfo {
+  margin: 5% 20%;
+}
+.date {
+  border: 2px solid #00146d;
+  text-align: center;
+  min-height: 10vh;
+  padding-top: 2%;
+}
+
+ul.main {
+  list-style: none;
+  max-width: 75%;
+  margin: 20px auto;
+}
+h3 {
+  padding: 0; margin: 0;
+}
+
+.events {
+  /*float: left;*/
+  width: 80%;
+  border-left: 1px solid #ccc;
+  margin-top: 5%;
+  padding-top: 3%;
+}
+
+.events-detail {
+  max-width: 550px;
+}
+
+.events-detail li{
+  padding: 10px;
+  border-bottom: 1px dashed #ccc;
+  /*line-height: 22px;*/
+  transition: ease .4s all;
+}
+
+.events-detail li:hover {
+  background: #e9e9e9;
+}
+
+.event-time {
+  font-weight: 900;
+}
+
+.events-detail li a {
+  text-decoration: none;
+  color: #444;
+  width: 100%;
+  /*height: 100%;*/
+  /*display: block;*/
+}
+
+.event-location {
+    font-size: .8em;
+    color: tomato;
+    margin-left: 70px;
+}
+
+/*This is the section for speakers and sessions*/
+
+.photo {
+  border-radius: 50%;
+}
+
+.details {
+  padding: 3% 10%;
+  border-bottom: 3px dotted midnightblue;
+  border-top: 3px dotted midnightblue;
+}
+
+.speakerdetails {
+  font-size: 2rem;
+}
+
+.bio p{
+  font-size: 1.2rem;
+}
+.bio {
+  margin: 3% 10%;
+}
+.icons {
+  text-align: center;
+}
+.icons i {
+  font-size: 3rem;
+}
+
+.sessions {
+  margin: 3% 10%;
+  font-size: 1.5rem;
+}
+
+/*This is the social section*/
+
+.twitter-timeline {
+  margin: 0 15%;
+}
+.socialtitle {
+  margin: 2% 15%;
+  text-align: center;
+}
+
+#twitter {
+  width: 300px;
+}
+
+.socialbuttons {
+  margin: 0 5%;
+}
+
+
+/*This is the footer section*/
+
+footer p {
+  font-size: 0.5rem;
+  margin-top: 5%;
+}
+
+@media all and (max-width: 641px) {
+    .date {
+      width: 100%;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 10px;
+    }
+
+  .events {
+    border:none;
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .events-detail {
+    padding: 0;
+  }
+
+  li.date p {
+    margin:0;
+  }
+}

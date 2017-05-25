@@ -1,0 +1,46 @@
+<head>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gridlex/2.3.1/gridlex.min.css">
+</head>
+
+<body>
+
+  <header>
+    <a href"/index.html"><div id="logo">
+      <img src="/images/australia-logo_0.png" />
+    </div></a>
+  </header>
+
+  <section class="grid-spaceBetween details">
+    <div class="col-4_sm-12">
+
+    </div>
+    <div class="col-8_sm-12 speakerdetails">
+      <h2> {{ page.title }}</h2>
+      <h3> {{ page.timeslot }}</h3>
+      <h3> {{ page.venue }}</h3>
+    </div>
+
+  </section>
+
+  <section class="bio">
+    <p>
+      {{ content }}
+    </p>
+  </section>
+
+  <section class="sessions">
+
+      <div>
+        <h4>Speakers</h4>
+        {% for speaker in page.speaker %}
+        <ul>
+          <a href="{{page.speakerurl}}">{{page.speaker}}</a>
+        </ul>
+        {% endfor %}
+      </div>
+
+  </section>
+
+
+</body>

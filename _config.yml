@@ -1,0 +1,7 @@
+collections:
+  speaker:
+    output: true
+    permalink: /speaker/:path/
+  session:
+    output: true
+    permalink: /session/:path/
