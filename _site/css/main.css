@@ -162,10 +162,6 @@ ul.main {
 
 /*This is the section for speakers and sessions*/
 
-.photo {
-  border-radius: 50%;
-}
-
 .details {
   padding: 3% 10%;
   border-bottom: 3px dotted midnightblue;
@@ -193,6 +189,10 @@ ul.main {
 .sessions {
   margin: 3% 10%;
   font-size: 3rem;
+}
+
+.photo {
+  min-height: 30vh;
 }
 
 /*This is the social section*/
