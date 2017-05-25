@@ -164,11 +164,11 @@ h3 {
 }
 
 .speakerdetails {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .bio p{
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 .bio {
   margin: 3% 10%;
@@ -177,13 +177,13 @@ h3 {
   text-align: center;
 }
 .icons i {
-  font-size: 3rem;
+  font-size: 4rem;
   margin-top: 2%;
 }
 
 .sessions {
   margin: 3% 10%;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 /*This is the social section*/
