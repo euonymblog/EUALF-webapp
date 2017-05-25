@@ -88,6 +88,10 @@ header {
 
 /*This is the schedule section*/
 
+.scheduleheading {
+  font-size: 3rem;
+}
+
 .dayinfo {
   margin: 5% 20%;
 }
@@ -103,9 +107,10 @@ ul.main {
   max-width: 75%;
   margin: 20px auto;
 }
-h3 {
-  padding: 0; margin: 0;
-  font-size: 2rem;
+.date h3 {
+  padding: 0;
+  margin: 4%;
+  font-size: 3rem;
 }
 
 .events {
@@ -125,7 +130,7 @@ h3 {
   border-bottom: 1px dashed #ccc;
   /*line-height: 22px;*/
   transition: ease .4s all;
-  font-size: 1.3rem;
+  font-size: 2rem;
 }
 
 .events-detail li:hover {
@@ -134,7 +139,11 @@ h3 {
 
 .event-time, .event-name {
   font-weight: 900;
-  font-size: 1.5rem;
+  font-size: 3rem;
+}
+
+.event-name {
+  color: midnightblue;
 }
 
 .events-detail li a {
@@ -146,7 +155,7 @@ h3 {
 }
 
 .event-location {
-    font-size: 1rem;
+    font-size: 2.5rem;
     color: tomato;
     margin-left: 70px;
 }
