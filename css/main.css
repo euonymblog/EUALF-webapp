@@ -105,6 +105,7 @@ ul.main {
 }
 h3 {
   padding: 0; margin: 0;
+  font-size: 2rem;
 }
 
 .events {
@@ -124,6 +125,7 @@ h3 {
   border-bottom: 1px dashed #ccc;
   /*line-height: 22px;*/
   transition: ease .4s all;
+  font-size: 1.3rem;
 }
 
 .events-detail li:hover {
@@ -134,8 +136,6 @@ h3 {
   font-weight: 900;
   font-size: 1.5rem;
 }
-
-
 
 .events-detail li a {
   text-decoration: none;
@@ -168,7 +168,7 @@ h3 {
 }
 
 .bio p{
-  font-size: 1.2rem;
+  font-size: 2rem;
 }
 .bio {
   margin: 3% 10%;
@@ -182,7 +182,7 @@ h3 {
 
 .sessions {
   margin: 3% 10%;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 /*This is the social section*/
