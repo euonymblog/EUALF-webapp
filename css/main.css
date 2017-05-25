@@ -130,9 +130,12 @@ h3 {
   background: #e9e9e9;
 }
 
-.event-time {
+.event-time, .event-name {
   font-weight: 900;
+  font-size: 1.5rem;
 }
+
+
 
 .events-detail li a {
   text-decoration: none;
@@ -143,7 +146,7 @@ h3 {
 }
 
 .event-location {
-    font-size: .8em;
+    font-size: 1rem;
     color: tomato;
     margin-left: 70px;
 }
