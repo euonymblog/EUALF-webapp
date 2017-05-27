@@ -5,3 +5,6 @@ collections:
   session:
     output: true
     permalink: /session/:path/
+  participant:
+    output: true
+    permalink: /speaker/:path/

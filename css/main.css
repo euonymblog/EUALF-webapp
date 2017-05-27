@@ -3,6 +3,7 @@
   margin: 0%;
   box-sizing: border-box;
   background-color: #ffffff;
+  border: 1px solid lightgrey;
 }
 
 /*This is the basic section*/
@@ -213,7 +214,16 @@ ul.main {
   margin: 0 5%;
 }
 
-
+/*This is the participant section*/
+.participanttitle {
+  font-size: 3rem;
+}
+.participants h3 {
+  font-size: 2.8rem;
+}
+.participants h4 {
+  font-size: 2.5rem;
+}
 /*This is the footer section*/
 
 footer p {
