@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Jillian Broadbent AO
-role: Member of European Parliament
-organisation: European Parliament
-image: /uploads/Antanas Guoga.jpg
+role: 'Chair, Clean Energy Finance Corporation'
+organisation: Clean Energy Finance Corporation
+image: /uploads/Jillian Broadbent AO.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
