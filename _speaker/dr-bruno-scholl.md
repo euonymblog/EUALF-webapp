@@ -7,6 +7,8 @@ image: /uploads/Dr Bruno Scholl.jpg
 session: 
     - name: Welcome and Introductions
       url: /elfwelcome.html
+    - name: Conclusions and Recommendations
+      url: /elfconclusions.html
 permalink: /scholl.html
 twitter:
 linkedin: dr-bruno-scholl-791b6a97
