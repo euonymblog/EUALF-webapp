@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Sabine Pittroff
-role: Acting First Assistant Secretary Department of Foreign Affairs and Trade
-organisation: Department of Foreign Affairs and Trade
-image: /uploads/Andrew Todd (Picture 1).png
+role: 'Chair, German Australian Business Council'
+organisation: German Australian Business Council
+image: /uploads/Sabine Pittroff.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
