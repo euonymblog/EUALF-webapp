@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Gillian Triggs
-role: Acting First Assistant Secretary Department of Foreign Affairs and Trade
-organisation: Department of Foreign Affairs and Trade
-image: /uploads/Andrew Todd (Picture 1).png
+role: President of the Australian Human Rights Commission
+organisation: Australian Human Rights Commission
+image: /uploads/Gillain Triggs.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
