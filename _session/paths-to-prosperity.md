@@ -1,11 +1,12 @@
 ---
 layout: session
 title: Paths to Prosperity
-timeslot: '5 June, 16:15pm-17:30pm'
-venue: Venue
+timeslot: 5 June, 16.15-17.30
+venue: Level 2 Stateroom
 speaker:
-speakerurl: /melissaconleytyler.html
-permalink: /elfwelcome.html
+speakerurl: 
+permalink: /pathsprosperity.html
 ---
+Panel discussion covering trade, innovation and the future workforce.
 
 
