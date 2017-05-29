@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: The Hon Julie Bishop MP
-role: Member of European Parliament
-organisation: European Parliament
-image: /uploads/Antanas Guoga.jpg
+role: Minister for Foreign Affairs
+organisation:
+image: /uploads/The Hon Julie Bishop MP.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
