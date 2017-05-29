@@ -1,12 +1,13 @@
 ---
 layout: speaker
 name: Jane Drake-Brockman
-role: National Executive Director
-organisation: Australian Institute of International Affairs
-image: 'http://www.internationalaffairs.org.au/wp-content/uploads/2014/01/Melissa-Conley-Tyler.png'
+role: Director of the EU Centre for Global Affairs at the University of Adelaide
+organisation: Centre for Global Affairs at the University of Adelaide
+image: /images/Jane Drake-Brockman.png
 session:
-  - ELF Welcome 2 June
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
+
+
