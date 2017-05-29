@@ -1,9 +1,11 @@
 ---
 layout: session
 title: Global Shocks
-timeslot: '2 June, 15:30pm-17:30pm'
+timeslot: '5 June, 11:15am-13:00pm'
 venue: Venue
 speaker:
 speakerurl: /melissaconleytyler.html
 permalink: /elfwelcome.html
 ---
+
+
