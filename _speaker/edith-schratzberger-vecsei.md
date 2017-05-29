@@ -11,4 +11,3 @@ linkedin:
 ---
 
 
-&nbsp;Nx&nbsp;
