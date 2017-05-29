@@ -1,11 +1,14 @@
 ---
 layout: speaker
 name: Edith Schratzberger-Vecsei
-role: Acting First Assistant Secretary Department of Foreign Affairs and Trade
-organisation: Department of Foreign Affairs and Trade
-image: /uploads/Andrew Todd (Picture 1).png
+role: President of the European Women’s Lobby and Chair of the Medical Women International Association.
+organisation: European Women’s Lobby and Medical Women International Association
+image: /uploads/Edith Schratzberger-Vecsei.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
+&nbsp;Nx&nbsp;
