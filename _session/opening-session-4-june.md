@@ -7,5 +7,5 @@ speaker:
 speakerurl: 
 permalink: /jointopening.html
 ---
-
+Welcome to Country, Opening remarks and messages from Emerging Leaders.
 
