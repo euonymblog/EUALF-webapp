@@ -14,4 +14,4 @@ twitter: antoniam
 linkedin: antoniamochan
 ---
 
-
+Antonia Mochan is the media and communications lead for the EU-Australia Leadership Forum. She is a former European Commission media spokesperson.
