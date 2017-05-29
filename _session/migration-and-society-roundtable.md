@@ -1,9 +1,11 @@
 ---
 layout: session
 title: Migration and Society Roundtable
-timeslot: '6 June, 7.30-8.45'
-venue: Level 2 Stateroom
+timeslot: '6 June, 9.00-10.45'
+venue: Level 2 Room 4
 speaker:
 speakerurl:
-permalink: /SLFbreakfast.html
+permalink: /migration.html
 ---
+
+
