@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Rui Coelho
-role: Member of European Parliament
-organisation: European Parliament
-image: /uploads/Antanas Guoga.jpg
+role: 'Executive Director, Invest Lisboa'
+organisation: Invest Lisboa
+image: /uploads/Rui Coelho.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
