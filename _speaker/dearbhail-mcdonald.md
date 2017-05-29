@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Dearbhail McDonald
-role: Acting First Assistant Secretary Department of Foreign Affairs and Trade
-organisation: Department of Foreign Affairs and Trade
-image: /uploads/Andrew Todd (Picture 1).png
+role: 'Journalist, columnist'
+organisation: Sunday Independent
+image: /uploads/Dearbhail McDonald.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
