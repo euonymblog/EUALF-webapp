@@ -1,12 +1,13 @@
 ---
 layout: speaker
 name: Lisa Martin
-role: National Executive Director
-organisation: Australian Institute of International Affairs
-image: 'http://www.internationalaffairs.org.au/wp-content/uploads/2014/01/Melissa-Conley-Tyler.png'
+role: 'Political Reporter, Australian Associated Press'
+organisation: Australian Associated Press
+image: /uploads/Lisa Martin.png
 session:
-  - ELF Welcome 2 June
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
+
+
