@@ -1,8 +1,8 @@
 ---
 layout: session
-title: Global Shocks
-timeslot: '5 June, 11:15am-13:00pm'
-venue: Venue
+title: Panel discussion on Global Shocks
+timeslot: 5 June, 11.15-13.00
+venue: Level 2 Stateroom
 speaker:
 speakerurl:
 permalink: /globalshocks.html
