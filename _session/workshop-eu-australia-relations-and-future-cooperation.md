@@ -8,4 +8,4 @@ speakerurl:
 permalink: /elfworkshop.html
 ---
 
-
+In groups, ELF work together to generate ideas and recommendations on specific areas of cooperation, such as Free trade, Climate and energy, People and place, Technology and change
