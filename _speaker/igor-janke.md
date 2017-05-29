@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Igor Janke
-role: Member of European Parliament
-organisation: European Parliament
-image: /uploads/Antanas Guoga.jpg
+role: 'Chairman, Instytut Wolności-Freedom Institue'
+organisation: Instytut Wolności-Freedom Institue
+image: /uploads/Igor Janke.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
