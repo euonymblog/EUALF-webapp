@@ -1,11 +1,11 @@
 ---
 layout: session
-title: 'Workshop: EU-Australia Relations and Future Cooperation'
-timeslot: '3 June, 11:30pm-13:00pm'
-venue: Venue
+title: Workshop on EU-Australia Relations and Future Cooperation
+timeslot: 3 June, 11.30pm-13.00pm
+venue: Level 2 Room 2
 speaker:
 speakerurl: /melissaconleytyler.html
-permalink: /elfwelcome.html
+permalink: /elfworkshop.html
 ---
 
 
