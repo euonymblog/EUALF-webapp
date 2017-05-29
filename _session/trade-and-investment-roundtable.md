@@ -1,7 +1,7 @@
 ---
 layout: session
 title: Trade and Investment Roundtable
-timeslot: '6 June, 7.30-8.45'
+timeslot: '6 June, 11.15-13.00'
 venue: Level 2 Room 2
 speaker:
 speakerurl:
