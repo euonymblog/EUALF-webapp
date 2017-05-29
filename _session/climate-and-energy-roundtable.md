@@ -1,9 +1,18 @@
 ---
 layout: session
-title: Climate and Energy Roundtable
-timeslot: '6 June, 7.30-8.45'
-venue: Level 2 Stateroom
+title: 'Climate, Energy and Environment Roundtable'
+timeslot: '6 June, 11.15-13.00'
+venue: Level 2 Room 3
 speaker:
 speakerurl:
-permalink: /SLFbreakfast.html
+permalink: /climate.html
 ---
+
+
+Participants are invited to select one roundtable to attend in each session.This will be the opportunity to put forward ideas and recommendations. Each round- table has a chair and a rapporteur, and your active participation is encouraged.
+
+The Climate, Energy and Environment Roundtable will cover issues such as:
+
+* What are we doing on energy policy? What are the learnings?
+* What are the inhibitors and enhancers to trade, investment and technology transfer in the energy sector, including emission reduction technologies?
+* What are the recommendations to further improve the above?
