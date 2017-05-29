@@ -8,4 +8,5 @@ speakerurl:
 permalink: /elftools.html
 ---
 
+Understanding European institutions, understanding Australian institutions and politics, gaining insights into cultural competence
 
