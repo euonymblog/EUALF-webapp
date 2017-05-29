@@ -8,4 +8,5 @@ speakerurl:
 permalink: /elfconclusions.html
 ---
 
+Reflections by Emerging Leaders on what they have learned and recommendations for Senior Leaders.
 
