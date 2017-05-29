@@ -1,11 +1,11 @@
 ---
 layout: session
 title: Gala Dinner
-timeslot: '4 June, 19:00pm-21:30pm'
-venue: Venue
+timeslot: 4 June, 19.00-21.30
+venue: Grand Ballroom
 speaker:
-speakerurl: /melissaconleytyler.html
-permalink: /elfwelcome.html
+speakerurl: 
+permalink: /galadinner.html
 ---
 
 
