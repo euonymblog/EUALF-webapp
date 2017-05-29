@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Fraser Cameron
-role: Member of European Parliament
-organisation: European Parliament
-image: /uploads/Antanas Guoga.jpg
+role: Director of the EU-Asia Center
+organisation: EU-Asia Center
+image: /uploads/Fraser Cameron.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
