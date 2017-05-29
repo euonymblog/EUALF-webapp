@@ -1,12 +1,13 @@
 ---
 layout: speaker
 name: Paul McClintock AO
-role: National Executive Director
-organisation: Australian Institute of International Affairs
-image: 'http://www.internationalaffairs.org.au/wp-content/uploads/2014/01/Melissa-Conley-Tyler.png'
+role: 'National Chairman, Committee for Economic Development of Australia (CEDA) and Chairman Broadspectrum, NSW Ports, Myer and I-MED Network'
+organisation: 'Committee for Economic Development of Australia (CEDA) and Chairman Broadspectrum, NSW Ports, Myer and I-MED Network'
+image: /uploads/Paul McClintock AO.png
 session:
-  - ELF Welcome 2 June
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
+
+
