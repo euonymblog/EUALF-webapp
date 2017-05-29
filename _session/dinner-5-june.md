@@ -1,11 +1,12 @@
 ---
 layout: session
-title: Dinner 5 June
-timeslot: '5 June, 18:00pm-21:00pm'
-venue: Venue
+title: Dinner on Sydney Harbour
+timeslot: '5 June, 18:00-21:00'
+venue: Sydney Harbour
 speaker:
-speakerurl: /melissaconleytyler.html
-permalink: /elfwelcome.html
+speakerurl:
+permalink: /dinnercruise.html
 ---
 
 
+Meet in the Hotel Lobby on the ground floor at 18.00 for transportation to the departure point.
