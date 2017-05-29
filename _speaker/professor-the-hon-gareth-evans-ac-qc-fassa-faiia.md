@@ -1,12 +1,13 @@
 ---
 layout: speaker
 name: Professor the Hon Gareth Evans AC QC FASSA FAIIA
-role: National Executive Director
-organisation: Australian Institute of International Affairs
-image: 'http://www.internationalaffairs.org.au/wp-content/uploads/2014/01/Melissa-Conley-Tyler.png'
+role: Former Minister for Foreign Affairs and Chancellor of the Australian National University
+organisation: Australian National University
+image: /uploads/Professor the Hon Gareth Evans AC QC FASSA FAIIA.png
 session:
-  - ELF Welcome 2 June
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
+
+
