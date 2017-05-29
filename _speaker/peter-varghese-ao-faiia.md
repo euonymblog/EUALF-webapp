@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Peter Varghese AO FAIIA
-role: Member of European Parliament
-organisation: European Parliament
-image: /uploads/Antanas Guoga.jpg
+role: 'Chancellor, University of Queensland'
+organisation: University of Queensland
+image: /uploads/Peter Varghese AO FAIIA.jpg
 session:
 permalink:
 twitter:
 linkedin:
 ---
+
+
