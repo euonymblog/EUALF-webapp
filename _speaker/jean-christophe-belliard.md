@@ -5,9 +5,9 @@ role: 'Deputy Secretary General for Political Affairs - Political Director, Euro
 organisation: European External Action Service
 image: /Jean-Christophe Belliard.jpg
 session:
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
 
 
