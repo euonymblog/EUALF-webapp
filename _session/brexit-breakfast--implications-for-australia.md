@@ -1,9 +1,11 @@
 ---
 layout: session
 title: Brexit Breakfast – Implications for Australia
-timeslot: '2 June, 15:30pm-17:30pm'
+timeslot: '6 June, 7:30am-8:45am'
 venue: Venue
 speaker:
 speakerurl: /melissaconleytyler.html
 permalink: /elfwelcome.html
 ---
+
+
