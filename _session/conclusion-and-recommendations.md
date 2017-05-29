@@ -1,9 +1,11 @@
 ---
 layout: session
-title: Conclusion and recommendations
-timeslot: '6 June, 7:30am-8:45am'
-venue: Venue
+title: Conclusions and recommendations
+timeslot: '3 June, 4.00pm-5.30pm'
+venue: Level 2 Room 2
 speaker:
-speakerurl: /melissaconleytyler.html
-permalink: /elfwelcome.html
+speakerurl:
+permalink: /elfconclusions.html
 ---
+
+
