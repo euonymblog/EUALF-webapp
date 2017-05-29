@@ -1,12 +1,13 @@
 ---
 layout: speaker
 name: Gonzalo Villalta Puig
-role: National Executive Director
-organisation: Australian Institute of International Affairs
-image: 'http://www.internationalaffairs.org.au/wp-content/uploads/2014/01/Melissa-Conley-Tyler.png'
+role: "-\tProfessor Gonzalo Villalta Puig, Head of the School of Law and Politics, Professor of Law and The University of Hull Chair in the Law of Economic Integration, The University of Hull (Spain)"
+organisation: 'School of Law and Politics, Professor of Law and The University of Hull Chair in the Law of Economic Integration, The University of Hull (Spain)'
+image: /Gonzalo Villalta Puig.png
 session:
-  - ELF Welcome 2 June
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
+
+
