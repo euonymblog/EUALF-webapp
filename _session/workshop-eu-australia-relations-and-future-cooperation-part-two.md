@@ -8,4 +8,4 @@ speakerurl:
 permalink: /elfworkshop2.html
 ---
 
-Continuing work on ideas and recommendations in the same groups
+Continuing work on ideas and recommendations in the same groups and reporting to the plenary.
