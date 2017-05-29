@@ -8,4 +8,4 @@ speakerurl:
 permalink: /galadinner.html
 ---
 
-
+Includes awarding of the EU/Qantas Award for Journalism 2017.
