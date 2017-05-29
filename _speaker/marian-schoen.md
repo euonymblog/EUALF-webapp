@@ -1,12 +1,13 @@
 ---
 layout: speaker
 name: Marian Schoen
-role: National Executive Director
-organisation: Australian Institute of International Affairs
-image: 'http://www.internationalaffairs.org.au/wp-content/uploads/2014/01/Melissa-Conley-Tyler.png'
+role: Executive Director of the University of Melbourne European Union Centre for Shared Complex Challenges
+organisation: University of Melbourne European Union Centre for Shared Complex Challenges
+image: /uploads/Marian Schoen.png
 session:
-  - ELF Welcome 2 June
-permalink: /melissaconleytyler.html
-twitter: MConleytyler
-linkedin: melissa-conley-tyler-72847025
+permalink:
+twitter:
+linkedin:
 ---
+
+
