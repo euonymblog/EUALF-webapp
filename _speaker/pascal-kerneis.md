@@ -1,8 +1,8 @@
 ---
 layout: speaker
 name: Pascal Kerneis
-role: National Executive Director
-organisation: Australian Institute of International Affairs
+role: 'Managing Director, European Services Forum'
+organisation: European Services Forum
 image: /uploads/pascal-kerneis.png
 session:
 permalink:
