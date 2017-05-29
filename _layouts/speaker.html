@@ -49,7 +49,7 @@
     {% for session in page.session %}
       <div>
         <ul>
-          <h4>{{ page.session }}</h4>
+          <a href="{{ page.session.url}}"><h4>{{ page.session }}</h4></a>
         </ul>
       </div>
     {% endfor %}
