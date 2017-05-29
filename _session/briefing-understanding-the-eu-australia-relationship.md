@@ -8,4 +8,5 @@ speakerurl:
 permalink: /elfbriefing.html
 ---
 
+Looking at the current institutions and elements of the EU-Australia relationship, including the Framework Partnership Agreement, prospect of Free Trade Agreement Negotiations and current areas of cooperation.
 
