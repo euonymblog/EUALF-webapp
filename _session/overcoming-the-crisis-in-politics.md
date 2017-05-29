@@ -1,7 +1,7 @@
 ---
 layout: session
 title: Overcoming the Crisis in Politics
-timeslot: '5 June, 14.00-15.45'
+timeslot: 5 June, 14.00-15.45
 venue: Level 2 Stateroom
 speaker:
 speakerurl:
