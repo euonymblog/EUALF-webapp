@@ -1,7 +1,7 @@
 ---
 layout: session
-title: Global Shocks
-timeslot: '5 June, 11:15am-13:00pm'
+title: Overcoming the Crisis in Politics
+timeslot: '5 June, 14:00pm-15:45pm'
 venue: Venue
 speaker:
 speakerurl: /melissaconleytyler.html
