@@ -6,7 +6,7 @@ organisation: Department of Foreign Affairs and Trade
 image: /uploads/Andrew Todd (Picture 1).png
 session: 
     - name: Concluding Lunch
-      sessionurl: /finallunch.html
+      url: /finallunch.html
 permalink: /todd.html
 twitter:
 linkedin:
