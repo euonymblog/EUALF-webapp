@@ -9,6 +9,7 @@ speaker:
     - name: Dr Fabian Zuleeg
       speakerurl: /zuleeg.html
     - name: Annemarie Elijah (Moderator)
+      speakerurl: /elijah.html
 permalink: /brexit.html
 ---
 How will the UK's departure from the EU affect Australia?
