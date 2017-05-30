@@ -4,7 +4,13 @@ title: 'Research & Innovation Roundtable'
 timeslot: '6 June, 9.00-10.45'
 venue: Level 2 Room 3
 speaker:
-speakerurl:
+    - name: Peter Varghese AO FAIIA (Chair)
+      speakerurl: /varghese.html
+    - name: Dr Antti Vasara (Rapporteur)
+      speakerurl: /vasara.html
+    - name: Elizabeth Yuncken (Trigger speaker)
+    - name: Angel Recaman (Trigger speaker)
+      speakerurl: /recaman.html
 permalink: /research.html
 ---
 
