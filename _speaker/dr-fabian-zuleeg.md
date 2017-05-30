@@ -6,7 +6,7 @@ organisation: European Policy Centre
 image: /uploads/Dr Fabian Zuleeg.jpg
 session:
     name: Brexit Breakfast - Implications for Australia
-    url: /slfbreakfast.html
+    url: /brexit.html
 permalink: /zuleeg.html
 twitter: FabianZuleeg
 linkedin: fabian-zuleeg-a8a1644
