@@ -5,9 +5,11 @@ role: 'Founding Director, Migration Policy Institute Europe'
 organisation: Migration Policy Institute Europe
 image: /uploads/Elizabeth Collett.png
 session:
-permalink:
-twitter:
-linkedin:
+    - name: Global Shocks Panel Discussion
+      url: /globalshocks.html
+permalink: /collett.html
+twitter: migrationliz
+linkedin: elizabeth-collett-6679352
 ---
 
-
+Elizabeth Collett is the Founding Director of Migration Policy Institute Europe and Senior Advisor to MPI's Transatlantic Council on Migration. She is based in Brussels, and her work focuses in particular on European migration and immigrant integration policy. 
