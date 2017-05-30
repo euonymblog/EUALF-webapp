@@ -9,6 +9,7 @@ speaker:
     - name: Dr Antti Vasara (Rapporteur)
       speakerurl: /vasara.html
     - name: Elizabeth Yuncken (Trigger speaker)
+      speakerurl: /yuncken.html
     - name: Angel Recaman (Trigger speaker)
       speakerurl: /recaman.html
 permalink: /research.html
