@@ -4,7 +4,11 @@ title: Tools for Collaboration - Building Relationships in the European Union an
 timeslot: 3 June, 9.00-11.00
 venue: Level 2 Room 2
 speaker:
-speakerurl: 
+    - name: Marian Schoen
+    - name: Lisa Martin
+    - name: Zoya Sheftalovich
+    - name: Dr Michael Zettinig
+
 permalink: /elftools.html
 ---
 
