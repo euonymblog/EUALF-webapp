@@ -10,7 +10,7 @@ speaker:
       speakerurl: /pittrof.html
     - name: Robert Milliner (Trigger speaker)
       speakerurl: /milliner.html
-    - name: Andrew Thomson
+    - name: Andrew Thomson (Trigger speaker)
       speakerurl: /thomson.html
 permalink: /climate.html
 ---
