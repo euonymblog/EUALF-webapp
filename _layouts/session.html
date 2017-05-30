@@ -6,7 +6,7 @@
 <body>
 
   <header>
-    <a href"/index.html"><div id="logo">
+    <a href="/index.html"><div id="logo">
       <img src="/images/australia-logo_0.png" />
     </div></a>
   </header>
@@ -35,7 +35,7 @@
         <h4>Speakers</h4>
         {% for speaker in page.speaker %}
         <ul>
-          <a href="{{page.speakerurl}}">{{page.speaker}}</a>
+          <a href="{{speaker.speakerurl}}">{{speaker.name}}</a>
         </ul>
         {% endfor %}
       </div>

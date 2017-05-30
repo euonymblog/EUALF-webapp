@@ -28,6 +28,11 @@ a {
   margin-bottom: 10%;
 }
 
+li {
+    font-family: 'Open Sans', sans-serif;
+  color: #a6a9bd;
+}
+
 /*This is the helper section*/
 
 .title h1, h2, h3 {
