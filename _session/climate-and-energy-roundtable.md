@@ -4,7 +4,7 @@ title: 'Climate, Energy and Environment Roundtable'
 timeslot: '6 June, 11.15-13.00'
 venue: Level 2 Room 3
 speaker:
-  - name: Jillian Braodbent AO (Chair)
+  - name: Jillian Broadbent AO (Chair)
     speakerurl: /broadbent.html
   - name: Dr Sabine Pittrof (Rapporteur)
     speakerurl: /pittrof.html
