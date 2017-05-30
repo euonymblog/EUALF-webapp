@@ -11,5 +11,4 @@ permalink: /tingle.html
 twitter: latingle
 linkedin: laura-tingle-8556952b
 ---
-Laura Tingle is an Australian journalist and author. She is the Australian Financial Review's Political Editor, based in the Australian Parliamentary Press Gallery. She regularly appears as on ABC radio and television.
-
+Laura Tingle is an Australian journalist and author. She is the Australian Financial Review's Political Editor, based in the Australian Parliamentary Press Gallery. She regularly appears as on ABC radio and television. She is a member of the Multi-Stakeholder Steering Committee of the EU-Australia Leadership Forum.
