@@ -20,7 +20,7 @@ Participants are invited to select one roundtable to attend in each session.This
 
 The Climate, Energy and Environment Roundtable will cover issues such as:
 
-* What are we doing on energy policy?
-* What are the learnings?
-* What are the inhibitors and enhancers to trade, investment and technology transfer in the energy sector, including emission reduction technologies?
-* What are the recommendations to further improve the above?
+<li>What are we doing on energy policy?</li>
+<li>What are the learnings?</li>
+<li>What are the inhibitors and enhancers to trade, investment and technology transfer in the energy sector, including emission reduction technologies?</li>
+<li>What are the recommendations to further improve the above?</li>
