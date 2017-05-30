@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Dr Laura Palmer
-role: Managing Director
-organisation: 'Acciona (Spain), Energy Division, Asia Pacific'
-image: /uploads/screen-shot-2017-05-30-at-12-53-30.png
+role: 'Policy and Projects Manager, The Australian Council of Learned Academies Secretariat'
+organisation: The Australian Council of Learned Academies Secretariat
+image: /uploads/Dr Lauren Palmer photo.jpg
 session:
-permalink: /thomson.html
-twitter: AndrewBThomson
-linkedin: andrew-thomson-17010b27
+permalink:
+twitter:
+linkedin:
 ---
+
+
