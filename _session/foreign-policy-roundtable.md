@@ -4,7 +4,10 @@ title: Foreign Policy Roundtable
 timeslot: '6 June, 9.00-10.45'
 venue: Level 2 Room 2
 speaker:
-speakerurl:
+    - name: Peter Jennings PSM (Chair)
+      speakerurl: /jennings.html
+    - name: Dr Gudrun Wacker (Rapporteur)
+      speakerurl: /wacker.html
 permalink: /foreignpolicy.html
 ---
 
