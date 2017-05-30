@@ -1,11 +1,13 @@
 ---
 layout: speaker
-name: Elizabeth
-role: Managing Director
-organisation: 'Acciona (Spain), Energy Division, Asia Pacific'
-image: /uploads/screen-shot-2017-05-30-at-12-53-30.png
+name: Elizabeth Yuncken
+role: 'Senior Advisor, Global Partnerships at the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO)'
+organisation: Global Partnerships at the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+image: /uploads/Elizabeth Yuncken.jpeg
 session:
-permalink: /thomson.html
-twitter: AndrewBThomson
-linkedin: andrew-thomson-17010b27
+permalink:
+twitter:
+linkedin:
 ---
+
+
