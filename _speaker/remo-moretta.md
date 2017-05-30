@@ -1,13 +1,14 @@
 ---
 layout: speaker
 name: Remo Moretta
-role: 'Assistant Secretary, Europe Trade and Brexit Branch, Department of Foreign Affaris & Trade'
-organisation: 'Europe Trade and Brexit Branch, Department of Foreign Affaris & Trade'
+role: Assistant Secretary
+organisation: Europe Trade and Brexit Branch, Department of Foreign Affaris & Trade
 image: /uploads/Remo Moretta.jpg
 session:
-permalink:
-twitter:
+    - name: Emerging Leaders' Reception
+      url: /elfreception.html
+permalink: /moretta.html
+twitter: 
 linkedin:
 ---
-
-
+Remo Moretta is Assistant Secretary, Europe Trade and Brexit Branch, Department of Foreign Affairs and Trade. He is a senior trade of cial and former Australian Deputy High Commissioner to New Zealand.
