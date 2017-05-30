@@ -5,7 +5,7 @@ timeslot: 6 June, 7.30-8.45
 venue: Level 2 Stateroom
 speaker:
 speakerurl: 
-permalink: /slfbreakfast.html
+permalink: /brexit.html
 ---
 
 How will the UK's departure from the EU affect Australia?
