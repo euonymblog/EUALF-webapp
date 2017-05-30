@@ -17,4 +17,4 @@ speaker:
 permalink: /galadinner.html
 ---
 
-Includes awarding of the 25th EU/Qantas Award for Journalism, which will be include presentations by Vanessa Hudson (Executive Manager, Customer and Commercial Relationships, Qantas) and Steve Lewis (Senior Vice President, National Press Club of Australia).
+Includes awarding of the 25th EU/Qantas Award for Journalism, which will include presentations by Vanessa Hudson (Executive Manager, Customer and Commercial Relationships, Qantas) and Steve Lewis (Senior Vice President, National Press Club of Australia).
