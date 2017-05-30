@@ -1,13 +1,13 @@
 ---
 layout: speaker
 name: Paul McClintock AO
-role: 'National Chairman, Committee for Economic Development of Australia (CEDA) and Chairman Broadspectrum, NSW Ports, Myer and I-MED Network'
-organisation: 'Committee for Economic Development of Australia (CEDA) and Chairman Broadspectrum, NSW Ports, Myer and I-MED Network'
-image: /uploads/Paul McClintock AO.png
+role: National Chairman
+organisation: Committee for Economic Development of Australia (CEDA)
 session:
-permalink:
+    - name: Global Shocks panel discussion
+      url: /globalshocks.html
+permalink: /mcclintock.html
 twitter:
-linkedin:
+linkedin: paul-mcclintock-18a80b89
 ---
-
-
+Paul McClintock was appointed National Chairman of CEDA in 2014. He is Chairman of Broadspectrum, NSW Ports, Myer, and I-MED Network.   He is also a Director of St Vincent’s Health Australia, The George Institute for Global Health and O’Connell Street Associates.
