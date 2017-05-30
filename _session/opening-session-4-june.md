@@ -13,6 +13,7 @@ speaker:
     - name: Dr Victor Negrescu (Emerging Leader)
       speakerurl: /negrescu.html
     - name: Dr Lauren Palmer
+      speakerurl: /palmer.html
     - name: Virginia Haussegger AM (Moderator)
       speakerurl: /haussegger.html
 permalink: /jointopening.html
