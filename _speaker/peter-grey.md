@@ -1,13 +1,14 @@
 ---
 layout: speaker
 name: Peter Grey
-role: 'Chairman, MLC Life Insurance; former CEO of Austrade; former Ambassador to the European Communities'
+role: Chairman
 organisation: MLC Life Insurance
 image: /uploads/Peter Grey.png
 session:
-permalink:
+  - name: Trade and Investment Roundtable
+    url: /trade.html
+permalink: /grey.html
 twitter:
 linkedin:
 ---
-
-
+Peter Grey is former CEO of Austrade and former Ambassador to the European Communities
