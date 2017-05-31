@@ -286,6 +286,16 @@ ul.main {
   border: 1px solid slategrey;
 }
 
+/*This is the readings section*/
+
+.readingheading h3{
+    font-size: 2rem;
+}
+
+.readingheading p {
+    font-size: 1.5rem;
+}
+
 /*This is the credits section*/
 .creditstext p{
     padding: 2%;
