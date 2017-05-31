@@ -296,35 +296,35 @@ ul.main {
 .mwh {
     background-image: url("http://euausforum.eu/Stantec_MWH_Color_Logo_Horizontal1.pdf");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     
 }
 
 .aiia {
     background-image: url("http://euausforum.eu/AIIA Logo Landscape w Tagline 2 copy.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     
 }
 
 .agriconsulting {
     background-image: url("http://euausforum.eu/AESA Agriconsulting Europe.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     
 }
 
 .ahk {
     background-image: url("http://euausforum.eu/ahk logo.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     
 }
 
 .eufunding {
     background-image: url("http://euausforum.eu/9436821B9DAD44E1903120C9476993CD-1.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     
 }
 
