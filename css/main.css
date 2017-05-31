@@ -289,7 +289,7 @@ ul.main {
 /*This is the credits section*/
 
 .logos div {
-    min-height: 50%;
+    min-height: 100px;
     
 }
 
