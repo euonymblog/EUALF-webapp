@@ -1,11 +1,14 @@
 ---
 layout: speaker
-name: Jens Horst-Nielsen
-role: Managing Director
-organisation: 'Acciona (Spain), Energy Division, Asia Pacific'
-image: /uploads/screen-shot-2017-05-30-at-12-53-30.png
+name: Jens Holst-Nielsen
+role: 'Director for International Trade & Market Development'
+organisation: Confederation of Danish Industries
+image:
 session:
-permalink: /thomson.html
-twitter: AndrewBThomson
-linkedin: andrew-thomson-17010b27
+  - trade-and-investment-roundtable
+permalink: /nielsen.html
+twitter: Jens_HolstN
+linkedin: jens-holst-nielsen-1365085
 ---
+
+
