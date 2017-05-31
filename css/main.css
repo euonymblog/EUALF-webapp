@@ -271,6 +271,21 @@ ul.main {
     background-color: #eee; /* Add a hover effect to all links, except for headers */
 }
 
+.dontShow{
+  display:none;
+}
+
+.search, #clearSearch{
+  font-size: 3rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#searchInput {
+  font-size: 3rem;
+  padding: 2%;
+  border: 1px solid slategrey;
+}
+
 /*This is the footer section*/
 
 footer p {
