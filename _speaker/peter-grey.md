@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: Peter Grey
-role: Managing Director
-organisation: 'Acciona (Spain), Energy Division, Asia Pacific'
-image: /uploads/screen-shot-2017-05-30-at-12-53-30.png
+role: 'Chairman, MLC Life Insurance; former CEO of Austrade; former Ambassador to the European Communities'
+organisation: MLC Life Insurance; former CEO of Austrade; former Ambassador to the European Communities
+image: /uploads/Peter Grey.png
 session:
-permalink: /thomson.html
-twitter: AndrewBThomson
-linkedin: andrew-thomson-17010b27
+permalink:
+twitter:
+linkedin:
 ---
+
+
