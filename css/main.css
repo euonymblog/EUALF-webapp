@@ -289,6 +289,7 @@ ul.main {
 /*This is the credits section*/
 .creditstext p{
     padding: 2%;
+    text-align: justify;
 }
 
 .logos div {
