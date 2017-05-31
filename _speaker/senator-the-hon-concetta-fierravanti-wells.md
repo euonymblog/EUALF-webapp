@@ -8,7 +8,7 @@ session:
     - name: Opening session
       url: /jointopening.html
 permalink: /fierravanti.html
-twitter:Senator_CFW
+twitter: Senator_CFW
 linkedin:
 ---
 Senator Fierravanti-Wells is Minister for International Development and the Pacific. She is Former Assistant Minister for Multicultural Affairs and Parliamentary Secretary to the Minister for Social Services.

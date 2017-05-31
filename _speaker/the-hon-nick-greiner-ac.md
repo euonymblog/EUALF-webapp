@@ -5,7 +5,7 @@ role: Chairman
 organisation: European Australian Business Council
 image: /uploads/The Hon Nick Greiner AC.png
 session:
-    - name: Trade and Investment: Towards and EU-Australia Free Trade Agreement Roundtable
+    - name: Trade and Investment - Towards and EU-Australia Free Trade Agreement Roundtable
       url: /trade.html
 permalink: /greiner.html
 twitter:

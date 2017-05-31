@@ -2,7 +2,7 @@
 layout: speaker
 name: Robert Milliner
 role: Director
-organisation: 'Global Infrastructure Hub
+organisation: Global Infrastructure Hub
 image: /uploads/Robert Milliner.png
 session:
     - name: Climate, Energy and Environment Roundtable
