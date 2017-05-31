@@ -1,11 +1,13 @@
 ---
 layout: speaker
 name: The Hon Simon Crean
-role: Managing Director
-organisation: 'Acciona (Spain), Energy Division, Asia Pacific'
-image: /uploads/screen-shot-2017-05-30-at-12-53-30.png
+role: 'Chairman of the Australian Livestock Exporters’ Council; former Australian Minister with portfolios notably including Trade, Employment Education & Training, and Science & Technology'
+organisation: Australian Livestock Exporters’ Counci
+image: /uploads/Hon Simon Crean.jpg
 session:
-permalink: /thomson.html
-twitter: AndrewBThomson
-linkedin: andrew-thomson-17010b27
+permalink:
+twitter: SimonCrean_MP
+linkedin:
 ---
+
+
