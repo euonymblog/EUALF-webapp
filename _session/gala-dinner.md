@@ -6,7 +6,7 @@ venue: Grand Ballroom
 speaker:
     - name: The Hon Julie Bishop MP
       speakerurl: /bishop.html
-    - name: his Excellency Sem Fabrizi
+    - name: His Excellency Sem Fabrizi
       speakerurl: /fabrizi.html
     - name: The Hon Niall Blair MLC
       speakerurl: /blair.html

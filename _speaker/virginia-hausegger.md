@@ -1,6 +1,6 @@
 ---
 layout: speaker
-name: Virginia Hausegger AM
+name: Virginia Haussegger AM
 role: Moderator
 organisation:
 image: /uploads/Virginia Hausegger.jpg
@@ -17,7 +17,7 @@ session:
       url: /pathsprosperity.html
     - name: Concluding Lunch
       url: /finallunch.html
-permalink: /hausegger.html
+permalink: /haussegger.html
 twitter: Virginia_Hauss
 linkedin: virginiahaussegger
 ---
