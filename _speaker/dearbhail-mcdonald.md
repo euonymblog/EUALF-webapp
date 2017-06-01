@@ -1,8 +1,8 @@
 ---
 layout: speaker
 name: Dearbhail McDonald
-role: Journalist, columnist
-organisation: Sunday Independent
+role: Group Business Editor
+organisation:  Independent News and Media
 image: /uploads/Dearbhail McDonald.jpg
 session:
     - name: Trade and Investment Roundtable
