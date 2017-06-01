@@ -3,7 +3,7 @@ layout: speaker
 name: Marian Schoen
 role: Executive Director
 organisation: University of Melbourne European Union Centre for Shared Complex Challenges
-image: /uploads/Marian Schoen.png
+image: https://res-2.cloudinary.com/the-university-of-melbourne/image/upload/s--A97BFF3M--/c_fit,f_auto,h_300,w_220/v1/events-uploads/presenter/photo/2463/Marian_20Schoen.jpg
 session:
     - name: Tools for Collaboration
       url: /elftools.html
