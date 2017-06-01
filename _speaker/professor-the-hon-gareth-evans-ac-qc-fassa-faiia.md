@@ -3,7 +3,7 @@ layout: speaker
 name: Professor the Hon Gareth Evans AC QC FASSA FAIIA
 role: Chancellor
 organisation: Australian National University
-image: /uploads/Professor the Hon Gareth Evans AC QC FASSA FAIIA.png
+image: http://www.gevans.org/GEthumbnail.jpg
 session:
     - name: Global Shocks panel discussion
       url: /globalshocks.html
