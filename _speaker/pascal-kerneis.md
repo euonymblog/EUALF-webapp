@@ -3,7 +3,7 @@ layout: speaker
 name: Pascal Kerneis
 role: Managing Director
 organisation: European Services Forum
-image: /uploads/pascal-kerneis.png
+image: http://www.esf.be/new/wp-content/uploads/2009/08/pascal-kerneis-managing-director-esf.jpg
 session:
     - name: Paths to Prosperity panel discussion
       url: /pathsprosperity.html
