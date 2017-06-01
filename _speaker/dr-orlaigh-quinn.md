@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Dr Orlaigh Quinn
-role: 'Secretary General
+role: Secretary General
 organisation: 'Department of Jobs, Enterprise and Innovation, Ireland'
 image: https://www.djei.ie/Djei/en/Who-We-Are/Secretary-General/Dr-Orlaigh-Quinn.jpg
 session:
