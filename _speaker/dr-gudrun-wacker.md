@@ -3,7 +3,7 @@ layout: speaker
 name: Dr Gudrun Wacker
 role: Senior Fellow, German Institute for International and Security Affairs
 organisation: German Institute for International and Security Affairs
-image: /uploads/Dr Gudrun Wacker.png
+image: http://bilder3.n-tv.de/img/incoming/crop11814306/3099562721-cImg_3_4-w282/Wacker-Gudrun-presse.jpg
 session:
     - name: Security, Foreign Policy & Development Roundtable
       url: /foreignpolicy.html
