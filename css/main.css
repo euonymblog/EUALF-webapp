@@ -186,10 +186,12 @@ ul.main {
 }
 .icons {
   text-align: center;
+  min-height: 10vh;
 }
 .icons i {
   font-size: 4rem;
   margin-top: 2%;
+  color: #2a2a2a;
 }
 
 .sessions {
