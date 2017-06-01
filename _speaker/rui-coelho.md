@@ -3,7 +3,7 @@ layout: speaker
 name: Rui Coelho
 role: Executive Director
 organisation: Invest Lisboa
-image: /uploads/Rui Coelho.jpg
+image: http://lisbonconnections.pt/server-data/Media/Profiles/89970052-114a-4d65-ac53-2164858fd646.jpg
 session:
     - name: Nightcaps
       url: /nightcaps.html
