@@ -2,8 +2,8 @@
 layout: speaker
 name: Victor Negrescu
 role: Member of the European Parliament
-organisation: European Parliament
-image: /uploads/Victor Negrescu.jpg
+organisation:
+image: http://www.europarl.europa.eu/mepphoto/88882.jpg
 session:
     - name: Opening session
       url: /jointopening.html
