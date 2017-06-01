@@ -2,8 +2,8 @@
 layout: speaker
 name: Volkmar Klein MP
 role: Member of German Federal Parliament
-organisation: German Federal Parliament
-image: /uploads/Volkmar Klein MP.png
+organisation: 
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Klein%2C_Volkmar-1101.jpg/170px-Klein%2C_Volkmar-1101.jpg
 session:
     - name: Global Shocks panel discussion
       url: /globalshocks.html
