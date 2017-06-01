@@ -3,7 +3,7 @@ layout: speaker
 name: Lisa Martin
 role: Political Reporter
 organisation: Australian Associated Press
-image: /uploads/Lisa Martin.png
+image: http://2015.causindy.org/wp-content/uploads/2015/08/Lisa-Martin-150x150.jpg
 session:
     - name: Tools for Collaboration
       url: /elftools.html
