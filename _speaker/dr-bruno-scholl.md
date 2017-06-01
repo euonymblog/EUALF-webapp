@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Dr Bruno Scholl
-role: Deputy Head of European Union Delegation to Australia
+role: Deputy Head 
 organisation: European Union Delegation to Australia
 image: http://artsonline.monash.edu.au/europecentre/files/2014/03/brunoscholl1.jpg
 session: 
