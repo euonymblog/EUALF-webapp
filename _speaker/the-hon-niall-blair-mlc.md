@@ -3,7 +3,7 @@ layout: speaker
 name: The Hon Niall Blair MLC
 role: Minister for Primary Industries, Minister for Regional Water and Minister for Trade and Industry
 organisation: State Government of New South Wales
-image: /uploads/The Hon Niall Blair MLC.jpg
+image: https://www.parliament.nsw.gov.au/members/DBAssets/90/print.jpg
 session:
     - name: Gala Dinner
       url: /galadinner.html
