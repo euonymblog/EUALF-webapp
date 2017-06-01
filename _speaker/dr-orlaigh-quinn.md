@@ -1,9 +1,9 @@
 ---
 layout: speaker
 name: Dr Orlaigh Quinn
-role: 'Secretary General, Department of Jobs, Enterprise and Innovation, Ireland'
+role: 'Secretary General
 organisation: 'Department of Jobs, Enterprise and Innovation, Ireland'
-image: /uploads/Dr Orlaigh Quinn.png
+image: https://www.djei.ie/Djei/en/Who-We-Are/Secretary-General/Dr-Orlaigh-Quinn.jpg
 session:
     - name: Paths to Prosperity Panel Discussion
       url: /pathsprosperity.html
