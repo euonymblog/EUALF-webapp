@@ -3,7 +3,7 @@ layout: speaker
 name: Professor Hugh White AO FAIIA
 role: Professor, Strategic and Defence Studies Centre
 organisation: Australian National University
-image: /uploads/Professor Hugh White AO FAIIA.jpg
+image: http://www.anu.edu.au/files/styles/anu_full_920_518/public/story/Hugh-White.jpg?itok=Mzg3qKKM
 session:
     - name: Nightcaps
       url: /nightcaps.html
