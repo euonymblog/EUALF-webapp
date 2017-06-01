@@ -198,7 +198,7 @@ ul.main {
 }
 
 .photo {
- 
+ min-height: 30vh;
 }
 
 /*This is the social section*/
