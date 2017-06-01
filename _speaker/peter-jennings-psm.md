@@ -3,7 +3,7 @@ layout: speaker
 name: Peter Jennings PSM
 role: Executive Director
 organisation: Australian Strategic Policy Institute
-image: /uploads/Peter Jennings PSM.jpg
+image: https://www.aspi.org.au/research/find-an-expert/peter-jennings/PeterJennings_web.jpg
 session:
     - name: Security, Foreign Policy and Development Roundtable
       url: /foreignpolicy.html
