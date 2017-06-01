@@ -1,9 +1,9 @@
 ---
 layout: speaker
 name: Elizabeth Collett
-role: 'Founding Director, Migration Policy Institute Europe'
+role: Founding Director
 organisation: Migration Policy Institute Europe
-image: /uploads/Elizabeth Collett.png
+image: http://www.migrationpolicy.org/sites/default/files/bio_photos/LizHeadshot-2015-3-crop.jpg
 session:
     - name: Global Shocks Panel Discussion
       url: /globalshocks.html
