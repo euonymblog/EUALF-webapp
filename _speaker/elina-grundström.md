@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Elina Grundström
-role: 'Journalist, author and Chair of the Finnish Council for Mass Media'
+role: Chair
 organisation: Finnish Council for Mass Media
 image: https://pbs.twimg.com/profile_images/629717689582374912/eD08Y2f6.jpg
 session:
