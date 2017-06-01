@@ -3,7 +3,7 @@ layout: speaker
 name: Uncle Allen Madden
 role: Gadigal Elder
 organisation: 
-image: /uploads/Uncle Allen Madden.jpg
+image: http://metrolalc.org.au/wp-content/uploads/2014/08/Allen-Madden_flip1.jpg
 session: 
     - name: Opening session
       url: /jointopening.html
