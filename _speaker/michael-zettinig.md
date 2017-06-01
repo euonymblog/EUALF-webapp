@@ -3,7 +3,7 @@ layout: speaker
 name: Michael Zettinig
 role: Director of Policy
 organisation: German-Australian Chamber of Industry and Commerce
-image: /uploads/Michael Zettinig.jpg
+image: https://pbs.twimg.com/profile_images/468628170405462016/9WnBjTw1.jpeg
 session:
     - name: Tools for Collaboration
       url: /elftools.html
