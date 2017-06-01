@@ -3,7 +3,7 @@ layout: speaker
 name: Peter Varghese AO FAIIA
 role: Chancellor
 organisation: University of Queensland
-image: /uploads/Peter Varghese AO FAIIA.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Peter_Varghese_%281%29.jpg/220px-Peter_Varghese_%281%29.jpg
 session:
     - name: Research and Innovation Roundtable
       url: /research.html
