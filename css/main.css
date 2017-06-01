@@ -198,7 +198,10 @@ ul.main {
 }
 
 .photo {
-  min-height: 30vh;
+  min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
 }
 
 /*This is the social section*/
