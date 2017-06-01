@@ -1,9 +1,9 @@
 ---
 layout: speaker
 name: Fraser Cameron
-role: Director of the EU-Asia Center
+role: Director
 organisation: EU-Asia Center
-image: /uploads/Fraser Cameron.jpg
+image: https://pbs.twimg.com/profile_images/514354358813605889/6ktXu7ae.jpeg
 session:
     - name: Brexit Breakfast - Implications for Australia
       url: /brexit.html
