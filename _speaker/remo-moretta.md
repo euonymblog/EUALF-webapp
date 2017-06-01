@@ -3,7 +3,7 @@ layout: speaker
 name: Remo Moretta
 role: Assistant Secretary
 organisation: Europe Trade and Brexit Branch, Department of Foreign Affaris & Trade
-image: /uploads/Remo Moretta.jpg
+image: https://www.britishchamber.com/sites/britishchamber.com/files/styles/event_image_slider/public/event-speaker/Remo%20Moretta.jpg?itok=dRhB0XmG
 session:
     - name: Emerging Leaders' Reception
       url: /elfreception.html
