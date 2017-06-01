@@ -2,7 +2,7 @@
 layout: speaker
 name: Igor Janke
 role: Chairman
-organisation: Instytut Wolności-Freedom Institue
+organisation: Instytut Wolności-Freedom Institute
 image: /uploads/Igor Janke.jpg
 session:
     - name: Nightcaps
