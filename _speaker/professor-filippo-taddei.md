@@ -3,7 +3,7 @@ layout: speaker
 name: Professor Filippo Taddei
 role: Professor of International Economics
 organisation: SAIS Johns Hopkins University Bologna
-image: /uploads/Professor Filippo Taddei.png
+image: https://www.sais-jhu.edu/sites/default/files/styles/faculty_headshot/public/fTaddei.jpg?itok=4oB0yo8U&c=294b9a6f2ad4a6ada27f79d28e7ff00d
 session:
     - name: Overcoming the crisis in politics panel discussion
 permalink: /taddei.html
