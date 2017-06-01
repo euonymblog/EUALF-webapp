@@ -3,7 +3,7 @@ layout: speaker
 name: The Hon Julie Bishop MP
 role: Minister for Foreign Affairs
 organisation: Australian Federal Government
-image: /uploads/The Hon Julie Bishop MP.jpg
+image: http://foreignminister.gov.au/PublishingImages/bishop-portrait-high-res.jpg
 session:
     - name: Gala Dinner
       url: /galadinner.html
