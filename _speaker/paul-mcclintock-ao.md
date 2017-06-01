@@ -3,6 +3,7 @@ layout: speaker
 name: Paul McClintock AO
 role: National Chairman
 organisation: Committee for Economic Development of Australia (CEDA)
+image: https://npc.org.au/wp-content/uploads/Paul-McClintock.jpg
 session:
     - name: Global Shocks panel discussion
       url: /globalshocks.html
