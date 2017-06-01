@@ -3,7 +3,7 @@ layout: speaker
 name: Laura Tingle
 role: Politics Editor
 organisation: The Australian Financial Review
-image: /uploads/Laura Tingle.png
+image: http://www.celebrityspeakers.com.au/media/pics/site/imagecache/D8EB33882462350FFC2ECB56F7F70B6F.jpg
 session:
     - name: Overcoming the crisis in politics panel discussion
       url: /crisispolitics.html
