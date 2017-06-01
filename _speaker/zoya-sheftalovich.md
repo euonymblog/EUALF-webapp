@@ -3,7 +3,7 @@ layout: speaker
 name: Zoya  Sheftalovich
 role: Contributing Reporter and Editor
 organisation: POLITICO
-image: /uploads/Zoya  Sheftalovich.png
+image: http://www.politico.eu/wp-content/uploads/2015/04/Zoya-Sheftalovich.jpg
 session:
     - name: Tools for Collaboration
       url: /elftools.html
