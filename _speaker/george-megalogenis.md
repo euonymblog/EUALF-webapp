@@ -3,7 +3,7 @@ layout: speaker
 name: George Megalogenis
 role: 'Journalist, political commentator and author'
 organisation:
-image: /uploads/George Megalogenis.png
+image: http://carlton-uca.org/news/wp-content/uploads/2016/03/George-Megalogenis.jpg
 session:
     - name: Paths to Prosperity Panel Discussion
       url: /pathsprosperity.html
