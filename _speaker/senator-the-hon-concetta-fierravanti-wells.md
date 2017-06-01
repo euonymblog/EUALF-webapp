@@ -3,7 +3,7 @@ layout: speaker
 name: Senator the Hon Concetta Fierravanti-Wells
 role: Minister for International Development and the Pacific
 organisation: Australian Federal Government
-image: /uploads/Senator the Hon Concetta Fierravanti-Wells.png
+image: http://cdn.newsapi.com.au/image/v1/28f8021e2e8098eb6b59c3835cb40984?width=650
 session:
     - name: Opening session
       url: /jointopening.html
