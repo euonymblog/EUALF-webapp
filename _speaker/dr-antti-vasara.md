@@ -3,7 +3,7 @@ layout: speaker
 name: Dr Antti Vasara
 role: 'President and CEO, VTT Technical Research Centre of Finland'
 organisation: VTT Technical Research Centre of Finland
-image: /uploads/Dr Antti Vasara.jpg
+image: https://pbs.twimg.com/profile_images/637267302849757184/n4uAqUUX.jpg
 session:
     - name: Research and Innovation Roundtable
       url: /research.html
