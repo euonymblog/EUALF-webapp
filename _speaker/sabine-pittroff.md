@@ -3,7 +3,7 @@ layout: speaker
 name: Sabine Pittrof
 role: Chair
 organisation: German Australian Business Council
-image: /uploads/Sabine Pittroff.jpg
+image: http://gabc.eu/wp-content/uploads/2014/11/Pittrof.jpg
 session:
     - name: Climate, Energy and Environment Roundtable
       url: climate.html
