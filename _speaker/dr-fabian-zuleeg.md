@@ -3,7 +3,7 @@ layout: speaker
 name: Dr Fabian Zuleeg
 role: 'Chief Executive, European Policy Centre'
 organisation: European Policy Centre
-image: /uploads/Dr Fabian Zuleeg.jpg
+image: http://www.eesc.europa.eu/resources/toolip/img-thumb/2013/12/09/fabian-zuleeg-epc-extra_large.jpg
 session:
     name: Brexit Breakfast - Implications for Australia
     url: /brexit.html
