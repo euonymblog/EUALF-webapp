@@ -3,7 +3,7 @@ layout: speaker
 name: John Daley
 role: Chief Executive Officer
 organisation: The Grattan Institute
-image: /uploads/John Daley.png
+image: http://www.theinstoreport.com.au/images/headshots/D/daley-John-main.jpg
 session:
     - name: Overcoming the crisis in politics panel discussion
       url: /crisispolitics.html
