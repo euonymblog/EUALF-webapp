@@ -2,8 +2,8 @@
 layout: speaker
 name: His Excellency Sem Fabrizi
 role: Ambassador of the European Union to Australia
-organisation: Delegation of the European Union to Australia
-image: /uploads/His Excellency Sem Fabrizi.jpg
+organisation: 
+image: http://www.eabc.com.au/wp-content/uploads/2014/04/Fabrizo-Sem-HE.jpg
 session:
     - name: Gala Dinner
       url: /galadinner.html
