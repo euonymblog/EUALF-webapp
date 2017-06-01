@@ -3,7 +3,7 @@ layout: speaker
 name: Senator the Hon Mathias Cormann
 role: Minister for Finance
 organisation: Australian Federal Government
-image: /uploads/Senator the Hon Mathias Cormann.png
+image: http://www.abc.net.au/news/image/5448522-3x4-700x933.jpg
 session:
     - name: Paths to Prosperity panel discussion
       url: /pathsprosperity.html
