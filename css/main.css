@@ -187,6 +187,7 @@ ul.main {
 .icons {
   text-align: center;
   min-height: 5vh;
+  padding: 0 5%;
 }
 .fa {
   margin-top: 2%;
