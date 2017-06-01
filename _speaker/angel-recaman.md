@@ -7,7 +7,7 @@ image: /uploads/Angel Recaman.jpg
 session:
     - name: Research and Innovation Roundtable
       url: /research.html
-permalink: recaman/html
+permalink: recaman.html
 twitter:
 linkedin: manuel-angel-recamán-rivas-68008841
 ---
