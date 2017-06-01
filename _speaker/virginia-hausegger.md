@@ -3,7 +3,7 @@ layout: speaker
 name: Virginia Haussegger AM
 role: Moderator
 organisation:
-image: /uploads/Virginia Hausegger.jpg
+image: http://www.governanceinstitute.edu.au/media/upload/profile/603.jpg
 session:
     - name: Gala Dinner
       url: /galadinner.html
