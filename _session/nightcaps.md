@@ -4,13 +4,13 @@ title: Nightcaps
 timeslot: '5 June, 21.00-22.00'
 venue: Basement Marble Bar
 speaker:
-  - name: The Hon Dr Brendan Nelson AO
-    speakerurl: /nelson.html
+  - name: Dan O'Brien
+    speakerurl: /obrien.html
   - name: Professor Hugh White AO FAIIA
     speakerurl: /white.html
   - name: Igor Janke
     speakerurl: /janke.html
-  - name: Rue Coelho
+  - name: Rui Coelho
     speakerurl: /coelho.html
 permalink: /nightcaps.html
 ---
